@@ -1,0 +1,17 @@
+Name:                backprop-example
+Version:             0.0
+Description:         Backpropagation example
+License:             GPL
+License-file:        LICENSE
+Author:              Amy Butler
+Maintainer:          amy@nualeargais.ie
+Build-Type:          Simple
+Cabal-Version:       >=1.2
+
+Executable backprop-example
+  Main-Is:          Main.hs
+  GHC-Options:      -Werror -rtsopts
+  Build-Depends:    base == 4.*, random == 1.0.*, hmatrix == 0.14.*,
+                    QuickCheck == 2.5.*, split == 0.2.*, binary == 0.5.*,
+                    bytestring == 0.9.*
+
