@@ -1,7 +1,7 @@
 backprop-example
 ================
 
-An example of back-propagation implemented in Haskell.
+An example of back-propagation implemented in Haskell. _Add link to article explaining the code._
 
 Running the example
 ===================
