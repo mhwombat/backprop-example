@@ -4,7 +4,7 @@ backprop-example
 An example of back-propagation implemented in Haskell. 
 This code is intended to accompany the article 
 _A Functional Approach to Neural Networks_ by Amy de Buitléir, Michael Russell, Mark Daly
-at http://themonadreader.files.wordpress.com/2013/03/issue21.pdf.
+at http://themonadreader.files.wordpress.com/2013/03/issue214.pdf.
 
 Running the example
 ===================
